@@ -5,7 +5,7 @@ package ru.javawebinar.topjava;
  * @see <a href="https://github.com/JavaOPs/topjava">Initial project</a>
  */
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] argms) {
         System.out.format("Hello TopJava Enterprise!");
     }
 }
